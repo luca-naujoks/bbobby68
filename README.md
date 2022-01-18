@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bbobby68
+- 👋 Hi, I’m @bbobby68 and my pronouns are he/him
 - 👀 I’m interested in IT and coding 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me no one can reach me :)
+- 🌱 I’m currently learning Specialist for system integration
+- 💞️ I’m not looking for a collaboration :)
+- 📫 No one can reach me :)
 
 <!---
 bbobby68/bbobby68 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
