@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @bbobby68 (he/him)
-- 👀 I’m interested in IT and coding 
-- 🌱 I’m currently learning Specialist for system integration
+- 👋 Hi, I’m @bbobby68 or Bobby68 (he/him)
+- 🌱 I’m interested in IT and coding and constantly improving my skills 
 - 💞️ I’m not looking for a collaboration :)
 - 📫 No one can reach me :)
 
